@@ -2,7 +2,7 @@
 title: "Analysis 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: teaching/analysis 1
+#permalink: teaching/analysis 1
 venue: "Imperial College London, Department of Mathematics"
 date: 10/2023 - 04/2024
 location: "London, UK"
