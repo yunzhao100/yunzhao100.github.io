@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Imperial College London, 2027 (expected)
+* M.S. in Quantitative Methods for Risk Management, London School of Economics, 2022
+* B.S. in Financial Mathematics, Shandong University, 2017
 
 Work experience
 ======
@@ -41,11 +41,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+####Publications
+####======
+ #### <ul>{% for post in site.publications reversed %}
+ ####   {% include archive-single-cv.html %}
+ #### {% endfor %}</ul>
   
 Talks
 ======
