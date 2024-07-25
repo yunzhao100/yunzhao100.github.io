@@ -22,7 +22,7 @@ Work experience
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users-
-  ->
+-->
 
 Skills
 ======
@@ -32,13 +32,13 @@ Skills
   * Derivatives
   * Statistics
 
-[
+<!--
 ####Publications
 ####======
  #### <ul>{% for post in site.publications reversed %}
  ####   {% include archive-single-cv.html %}
  #### {% endfor %}</ul>
-]
+-->
   
 Talks
 ======
