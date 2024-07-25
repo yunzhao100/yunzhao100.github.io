@@ -13,25 +13,16 @@ Education
 ======
 * Ph.D in Mathematics, Imperial College London, 2027 (expected)
 * M.S. in Quantitative Methods for Risk Management, London School of Economics, 2022
-* B.S. in Financial Mathematics, Shandong University, 2017
+* B.S. in Financial Mathematics, Shandong University, 2021
 
-Work experience
+<!--Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
+-->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -61,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PhD Representative for Mathematical Finance
