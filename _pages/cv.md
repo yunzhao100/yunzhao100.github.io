@@ -15,14 +15,12 @@ Education
 * M.S. in Quantitative Methods for Risk Management, London School of Economics, 2022
 * B.S. in Financial Mathematics, Shandong University, 2021
 
-[
-Work experience
+[Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-]
+  * Supervisor: The Users]
 
 Skills
 ======
